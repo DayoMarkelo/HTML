@@ -1,0 +1,8 @@
+h1 {background-color: darkblue; color:white; line-height: 3.0em;font-family: Arial, Helvetica, sans-serif; text-align: center; font-weight:800; font-size: 100px;}
+
+body {background-color: black; color: white;}
+h2,p, .white-border {
+    border: 2px solid darkblue;}
+    h2 {text-align: center;}
+
+
